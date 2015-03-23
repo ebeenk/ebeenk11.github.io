@@ -22,4 +22,4 @@ Connecting Ruby & Active Record Without Rails:
 Classes, Inheritance & Composition:
 http://learnrubythehardway.org/book/ex44.html
 
-[MonkHotDog]: http://lowres.cartoonstock.com/religion-buddhist-buddha-monk-tibet-tibetans-lfin439_low.jpg
+[MonkHotDogPic]: http://lowres.cartoonstock.com/religion-buddhist-buddha-monk-tibet-tibetans-lfin439_low.jpg

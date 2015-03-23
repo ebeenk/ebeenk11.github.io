@@ -28,15 +28,15 @@ This is [**Sensei Aaron**][Aaron Github] guiding me in my studies for Higher Exc
 
 **Some helpful tips I learned to start the Jekyll server:** 
 
-$Jeykll serve
+`$Jeykll serve`
 
 **To find arguments running on local host port 4000:**
 
-$lsof -wni tcp:4000
+`$lsof -wni tcp:4000`
 
 **To kill a process on a specified port:**
 
-$kill -9 PID
+`$kill -9 PID`
 
 [Inventing on Principle]: https://vimeo.com/36579366
 [Markdown Tricks]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images

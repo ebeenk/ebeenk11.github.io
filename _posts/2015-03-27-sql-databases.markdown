@@ -9,24 +9,21 @@ categories: sql databases
 
 ![KarateKid][KarateKidWax]
 
-#**Sensei says: "To master craft, spend less time doing not craft."**
 
-![Zen Pic][ZenPic]
-
-I spent most of this week reading through SQL resources and doing exercism exercises. Here are my SQL notes for the week:
+I spent most of this week reading through SQL resources and doing exercism exercises. Below are my SQL notes for the week.
 
 **Set Operators:**
 soundUnion, Intersect, Except
-1.With from, you can add variables to make future clauses more readable
+1. With from, you can add variables to make future clauses more readable
 -For Example:
 -select Student.sID, sName, GPA, Apply.cName, enrollment
-2.from Student S, College C, Apply A
-3.where A.sID = S.sID and A.cName = C.cName
-4.Operator <>	→ “not equal” (i.e. S1.sID <> S2.sID;)
-5.Union operator by default in SQL eliminates duplicates
+2. from Student S, College C, Apply A
+3. where A.sID = S.sID and A.cName = C.cName
+4. Operator <>	→ “not equal” (i.e. S1.sID <> S2.sID;)
+5. Union operator by default in SQL eliminates duplicates
 -Use ‘all’ to retain duplicate with union, i.e. (union all)
-6.Sub-queries are nested select statements, can be nested in the where clause
-7.Some databases don’t support ‘all’ or ‘any’ expressions.  Use exists or not exists instead
+6. Sub-queries are nested select statements, can be nested in the where clause
+7. Some databases don’t support ‘all’ or ‘any’ expressions.  Use exists or not exists instead
 
 **SQL Aggregation Clauses:**
 1.Initially appear in the select clause, perform computations over multiple rows in a collection

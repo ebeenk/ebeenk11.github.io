@@ -64,4 +64,4 @@ soundUnion, Intersect, Except
 4.Helpful to perform searches first to verify correct database selection before updating and/or deleting
 
 
-[KrateKidWax]: http://jargonfiles.files.wordpress.com/2013/02/waxonwaxoff.jpg
+[KarateKidWax]: http://jargonfiles.files.wordpress.com/2013/02/waxonwaxoff.jpg

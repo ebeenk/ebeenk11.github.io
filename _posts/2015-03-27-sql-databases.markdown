@@ -9,6 +9,10 @@ categories: sql databases
 
 ![KarateKid][KarateKidWax]
 
+#**Sensei says: "To master craft, spend less time doing not craft."**
+
+![Zen Pic][ZenPic]
+
 I spent most of this week reading through SQL resources and doing exercism exercises. Here are my SQL notes for the week:
 
 **Set Operators:**
